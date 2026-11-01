@@ -1,0 +1,16 @@
+{
+  "name": "Parte interno de siniestro · SOLEMCCOR",
+  "short_name": "Parte SOLEMCCOR",
+  "description": "Parte interno de siniestro de vehículos propios de SOLEMCCOR (sin terceros).",
+  "lang": "es",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#007C56",
+  "icons": [
+    { "src": "icono-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icono-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icono-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
